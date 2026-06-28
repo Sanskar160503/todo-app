@@ -1,10 +1,10 @@
-# ✅ TodoApp — Full-Stack Todo Application
+# TodoApp — Full-Stack Todo Application
 
 A multi-page todo application built with **React** (frontend) and **Node.js + Express** (backend), with file-based data persistence.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 todo-app/
@@ -37,7 +37,7 @@ todo-app/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js v16+
@@ -65,7 +65,7 @@ Open your browser at **http://localhost:3000**
 
 ---
 
-## 🖥️ Pages
+## Pages
 
 | Route | Description |
 |---|---|
@@ -75,7 +75,7 @@ Open your browser at **http://localhost:3000**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -87,7 +87,7 @@ Open your browser at **http://localhost:3000**
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 - [FEATURES.md](./FEATURES.md) — All features and functionalities
 - [API.md](./API.md) — Backend REST API reference
